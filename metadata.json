@@ -1,0 +1,5 @@
+{
+  "name": "Study.AI Test Generator",
+  "description": "A luxury, high-tech AI-powered exam generator that converts documents into professional, downloadable PDF tests using Google Gemini.",
+  "requestFramePermissions": []
+}
